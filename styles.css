@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.main{
+    height: 500px;
+}
+
+.sectionMain1{
+    margin: 0;
+   margin-top: 250px;
+   margin-left: 25px;
+    
+}
+
+#sobremim{
+    padding: 0;
+   margin-top: 20px;
+   margin-left: 25px;
+}
+
+
+.card-group{
+    flex-wrap: wrap;
+    display: flex;
+    margin: 0 auto;
+    width: 40vw;
+    
+}
+
+.card-body{
+    text-align: center;
+}
+
+.ondeMeEncontrar{
+    text-align: center;
+}
+
+
+
+
+
+#copyright{
+    margin-top: 100px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    footer{
+        margin-top: 500px;
+    }
+}
